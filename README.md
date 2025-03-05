@@ -46,7 +46,7 @@ I'm Fredrick Mwaura, a passionate developer with a keen interest in creating ele
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fredrick-mwaura&show_icons=true&theme=radical" alt="GitHub Stats" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fredrick-mwaura&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredrick-mwaura&theme=radical" alt="GitHub Streak" />
 
 </div>
 
