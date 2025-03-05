@@ -18,23 +18,29 @@
 I'm Fredrick Mwaura, a passionate developer with a keen interest in creating elegant solutions to complex problems. I believe in the power of technology to transform and improve our world.
 
 ## 👀 I'm interested in
-- Software Development
-- Machine Learning & AI
-- Open Source Collaboration
-- Web Technologies
-- Cloud Computing
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Software_Development-8B5CF6?style=for-the-badge&logoColor=white" alt="Software Development" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Machine_Learning_&_AI-D946EF?style=for-the-badge&logoColor=white" alt="Machine Learning & AI" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Open_Source_Collaboration-F97316?style=for-the-badge&logoColor=white" alt="Open Source Collaboration" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Web_Technologies-0EA5E9?style=for-the-badge&logoColor=white" alt="Web Technologies" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cloud_Computing-9b87f5?style=for-the-badge&logoColor=white" alt="Cloud Computing" /></a>
+</p>
 
 ## 🌱 I'm currently learning
-- Advanced Data Structures & Algorithms
-- Cloud Architecture
-- DevOps Practices
-- [Additional technologies you're learning]
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Advanced_Data_Structures_&_Algorithms-E5DEFF?style=for-the-badge&logo=codecademy&logoColor=000000" alt="Advanced Data Structures & Algorithms" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cloud_Architecture-D3E4FD?style=for-the-badge&logo=amazon-aws&logoColor=000000" alt="Cloud Architecture" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/DevOps_Practices-FFDEE2?style=for-the-badge&logo=docker&logoColor=000000" alt="DevOps Practices" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Additional_Technologies-FDE1D3?style=for-the-badge&logo=coursera&logoColor=000000" alt="Additional Technologies" /></a>
+</p>
 
 ## 💞️ I'm looking to collaborate on
-- Open Source Projects
-- Innovative Web Applications
-- AI/ML Projects
-- [Any specific projects or areas]
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Open_Source_Projects-F2FCE2?style=for-the-badge&logo=github&logoColor=000000" alt="Open Source Projects" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Innovative_Web_Applications-FEF7CD?style=for-the-badge&logo=react&logoColor=000000" alt="Innovative Web Applications" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI/ML_Projects-FEC6A1?style=for-the-badge&logo=tensorflow&logoColor=000000" alt="AI/ML Projects" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Specific_Projects-F1F0FB?style=for-the-badge&logo=hackster&logoColor=000000" alt="Specific Projects" /></a>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -64,10 +70,14 @@ I'm Fredrick Mwaura, a passionate developer with a keen interest in creating ele
 </p>
 
 ## 😄 Pronouns
-[Your pronouns here]
+<p align="center">
+  <img src="https://img.shields.io/badge/Your_Pronouns_Here-7E69AB?style=for-the-badge" alt="Pronouns" />
+</p>
 
 ## ⚡ Fun fact
-[An interesting fun fact about yourself]
+<p align="center">
+  <img src="https://img.shields.io/badge/An_Interesting_Fun_Fact_About_Yourself-6E59A5?style=for-the-badge" alt="Fun Fact" />
+</p>
 
 ---
 
