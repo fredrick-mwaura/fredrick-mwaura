@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fredrick%20Mwaura&fontSize=80&fontAlignY=35&animation=fadeIn" />
-</div>
-
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 <p align="center">
