@@ -57,7 +57,3 @@
 <div align="center">
   <sub>✨ Thanks for visiting! Keep building, keep learning. ✨</sub>
 </div>
-
-<!---
-fredrick-mwaura/fredrick-mwaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
