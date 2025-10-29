@@ -12,12 +12,28 @@
 ### 👨‍💻 About Me
 
 Hi, I’m **Fredrick Mwaura** — a passionate **Fullstack Web Developer** from Kenya 🇰🇪  
-I enjoy designing and developing modern, scalable web applications using technologies like:
-- **React**, **Next.js**, and **Tailwind CSS** on the frontend  
-- **Laravel**, **Node.js**, or **Django** on the backend  
-- **MySQL** and **MongoDB** for databases  
+I enjoy designing and developing modern, scalable web applications and learning new tools to sharpen my craft.
 
-I love solving real-world problems through code and continuously learning new tools to sharpen my craft.
+---
+
+### 📝 Personal Info
+
+- **Name:** Fredrick Mwaura  
+- **Role:** Fullstack Web Developer  
+- **Location:** Kenya  
+- **Email:** fredrickmwaura691@gmail.com  
+- **Phone:** +254792542168  
+- **GitHub:** [fredrick-mwaura](https://github.com/fredrick-mwaura)  
+- **Twitter/X:** [@ed_mern](https://x.com/ed_mern)
+
+---
+
+### 🛠️ Tech Stack (high-level)
+
+- **Frontend:** React, Next.js, Tailwind CSS, **TypeScript**  
+- **Backend:** Laravel, Node.js, Django  
+- **Databases:** MySQL, MongoDB  
+- **Other:** Vite, JWT, REST APIs
 
 ---
 
@@ -52,5 +68,4 @@ I love solving real-world problems through code and continuously learning new to
 
 <!---
 fredrick-mwaura/fredrick-mwaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
