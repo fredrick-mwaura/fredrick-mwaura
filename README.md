@@ -8,19 +8,11 @@
 </p>
 
 ---
-
-### 👨‍💻 About Me
-
-Hi, I’m **Fredrick Mwaura** — a passionate **Fullstack Web Developer** from Kenya 🇰🇪  
-I enjoy designing and developing modern, scalable web applications and learning new tools to sharpen my craft.
-
----
-
 ### 📝 Personal Info
 
 - **Name:** Fredrick Mwaura  
 - **Role:** Fullstack Web Developer  
-- **Location:** Kenya  
+- **Location:** Nairobi, Kenya 🇰🇪
 - **Email:** fredrickmwaura691@gmail.com  
 - **Phone:** +254792542168  
 - **GitHub:** [fredrick-mwaura](https://github.com/fredrick-mwaura)  
