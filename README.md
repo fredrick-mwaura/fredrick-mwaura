@@ -16,7 +16,7 @@
 - **Email:** fredrickmwaura691@gmail.com  
 - **Phone:** +254792542168  
 - **GitHub:** [fredrick-mwaura](https://github.com/fredrick-mwaura)  
-- **Twitter/X:** [@ed_mern](https://x.com/ed_mern)
+- **Twitter/X:** [@ed_mern](https://x.com/mwaurafredric)
 
 ---
 
