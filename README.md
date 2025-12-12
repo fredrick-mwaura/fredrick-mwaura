@@ -11,8 +11,8 @@
 ### 📝 Personal Info
 
 - **Name:** Fredrick Mwaura  
-- **Role:** Fullstack Web Developer  
-- **Location:** Nairobi, Kenya 🇰🇪
+- **Role:** Fullstack Developer  
+- **Location:** Murang'a, Kenya 🇰🇪
 - **Email:** fredrickmwaura691@gmail.com  
 - **Phone:** +254792542168  
 - **GitHub:** [fredrick-mwaura](https://github.com/fredrick-mwaura)  
@@ -22,10 +22,10 @@
 
 ### 🛠️ Tech Stack (high-level)
 
-- **Frontend:** React, Next.js, Tailwind CSS, **TypeScript**  
-- **Backend:** Laravel, Node.js, Django  
-- **Databases:** MySQL, MongoDB  
-- **Other:** Vite, JWT, REST APIs
+- **Frontend:** ***React, Next.js, Tailwind CSS, TypeScript***
+- **Backend:** ***Laravel, Node.js, Django, Flask, Expressjs***
+- **Databases:** ***MySQL, MongoDB, Postgresql, Redis*** 
+- **Other:** ***Vite, JWT, REST APIs, Supabase, firebase, replit***
 
 ---
 
@@ -44,7 +44,7 @@
   <a href="mailto:fredrickmwaura691@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://x.com/ed_mern">
+  <a href="https://x.com/mwaurafredric">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="tel:+254792542168">
@@ -55,5 +55,5 @@
 ---
 
 <div align="center">
-  <sub>✨ Thanks for visiting! Keep building, keep learning. ✨</sub>
+  <sub>✨ Thanks for visiting! ✨</sub>
 </div>
