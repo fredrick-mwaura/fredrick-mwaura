@@ -1,3 +1,4 @@
+---
 <h1 align="center">Welcome to my GitHub Profile 👋</h1>
 
 <p align="center">
@@ -52,7 +53,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <sub>✨ Thanks for visiting! ✨</sub>
-</div>
