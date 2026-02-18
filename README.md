@@ -61,6 +61,9 @@
 <img src="https://img.shields.io/badge/REPLIT-F26207?style=for-the-badge&logo=replit&logoColor=white" />
 
 </p>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
