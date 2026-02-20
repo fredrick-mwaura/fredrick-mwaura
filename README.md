@@ -1,6 +1,4 @@
 ---
-<h1 align="center">Welcome to my GitHub Profile 👋</h1>
-
 <p align="center">
   <a href="https://github.com/fredrick-mwaura">
     <img src="https://img.shields.io/github/followers/fredrick-mwaura?label=Followers&style=social" alt="GitHub Followers" />
@@ -14,9 +12,8 @@
 - **Name:** Fredrick Mwaura  
 - **Role:** Fullstack Developer  
 - **Location:** Murang'a, Kenya 🇰🇪
-- **Email:** fredrickmwaura691@gmail.com  
-- **GitHub:** [fredrick-mwaura](https://github.com/fredrick-mwaura)  
-- **Twitter/X:** [@mwaurafredric](https://x.com/mwaurafredric)
+- **Email:** fredrickmwaura691@gmail.com
+- **Personal** **website:** <a href="https://mwaura-fredrick.vercel.app" target="_blank">https://mwaura-fredrick.vercel.app</a>
 
 ## 💻 Tech Stack:
 
