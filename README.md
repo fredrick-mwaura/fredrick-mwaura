@@ -7,7 +7,7 @@
 </p>
 
 ---
-### 📝 Personal Info
+## 📝 Personal Info
 
 - **Name:** Fredrick Mwaura  
 - **Role:** Fullstack Developer  
@@ -70,7 +70,7 @@
 
 ---
 
-### 📫 Connect with Me
+# 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:fredrickmwaura691@gmail.com">
@@ -83,5 +83,3 @@
     <img src="https://img.shields.io/badge/Phone-34b7f1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
 </p>
-
----
