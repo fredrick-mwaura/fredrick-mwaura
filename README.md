@@ -79,7 +79,4 @@
   <a href="https://x.com/mwaurafredric">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="tel:+254792542168">
-    <img src="https://img.shields.io/badge/Phone-34b7f1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-  </a>
 </p>
