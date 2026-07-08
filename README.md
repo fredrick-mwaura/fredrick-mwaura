@@ -11,7 +11,7 @@
 
 - **Name:** Fredrick Mwaura  
 - **Role:** Fullstack Developer  
-- **Location:** Murang'a, Kenya 🇰🇪
+- **Location:** Nairobi, Kenya 🇰🇪
 - **Email:** fredrickmwaura691@gmail.com
 - **Personal** **website:** <a href="https://mwaura-fredrick.vercel.app" target="_blank">https://mwaura-fredrick.vercel.app</a>
 
@@ -92,15 +92,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredrick-mwaura&theme=radical" alt="GitHub Streak" />
 </div>
 
----
-
-# 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:fredrickmwaura691@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/mwaurafredric">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
