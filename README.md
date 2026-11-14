@@ -13,7 +13,7 @@
 - **Role:** Fullstack Developer  
 - **Location:** Nairobi, Kenya 🇰🇪
 - **Email:** fredrickmwaura691@gmail.com
-- **Personal** **website:** <a href="https://mwaura-fredrick.vercel.app" target="_blank">https://mwaura-fredrick.vercel.app</a>
+- **Personal** **website:** <a href="[https://fredrickmwaura.ct.ws](https://fredrickmwaura.ct.ws/)" target="_blank">https://fredrickmwaura.ct.ws</a>
 
 ## 💻 Tech Stack:
 
