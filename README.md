@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
   Software Engineer
-</p>
+</h2>
 
 ---
 <p align="center">
