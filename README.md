@@ -1,3 +1,7 @@
+<p align="center">
+  Software Engineer
+</p>
+
 ---
 <p align="center">
   <a href="https://github.com/fredrick-mwaura">
