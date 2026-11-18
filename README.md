@@ -7,12 +7,6 @@
 </p>
 
 ---
-## 📝 Personal Info
-
-- **Name:** Fredrick Mwaura  
-- **Role:** Fullstack Developer  
-- **Location:** Nairobi, Kenya 🇰🇪
-- **Email:** fredrickmwaura691@gmail.com
 - **Personal** **website:** <a href="[https://fredrickmwaura.ct.ws](https://fredrickmwaura.ct.ws/)" target="_blank">https://fredrickmwaura.ct.ws</a>
 
 ## 💻 Tech Stack:
